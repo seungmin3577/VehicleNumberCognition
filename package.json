@@ -1,0 +1,25 @@
+{
+	"name": "VehicleNumberCognition",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:seungmin3577/VehicleNumberCognition.git",
+	"license": "MIT",
+	"scripts": {
+		"start": "ts-node src/index.js"
+	},
+	"dependencies": {
+		"@google-cloud/vision": "^1.11.0",
+		"canvas": "^2.6.1",
+		"ffmpeg": "^0.0.4",
+		"jsdom": "^16.2.2",
+		"mathjs": "^6.6.2",
+		"numjs": "^0.16.0",
+		"opencv.js": "^1.2.1",
+		"sharp": "^0.25.2",
+		"tesseract.js": "^2.1.1"
+	},
+	"devDependencies": {
+		"ts-node": "^8.8.2",
+		"typescript": "^3.8.3"
+	}
+}

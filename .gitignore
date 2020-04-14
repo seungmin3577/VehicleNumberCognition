@@ -1,0 +1,7 @@
+./node_modules
+./yarn.lock
+.prettierrc.js
+src/public/*
+
+ocr-test-f1970d774c06.json
+kor.traineddata

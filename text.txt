@@ -1,0 +1,21 @@
+Ready Recognize DJI_0017.mp4.
+Start delete DJI_0017.mp4.
+End delete DJI_0017.mp4.
+Start Recognize DJI_0017.mp4.
+End Recognize DJI_0017.mp4.
+Ready Recognize DJI_0018.mp4.
+Start delete DJI_0018.mp4.
+End delete DJI_0018.mp4.
+Start Recognize DJI_0018.mp4.
+End Recognize DJI_0018.mp4.
+Ready Recognize DJI_0019.mp4.
+Start delete DJI_0019.mp4.
+End delete DJI_0019.mp4.
+Start Recognize DJI_0019.mp4.
+End Recognize DJI_0019.mp4.
+Ready Recognize DJI_0020.mp4.
+Start delete DJI_0020.mp4.
+End delete DJI_0020.mp4.
+Start Recognize DJI_0020.mp4.
+End Recognize DJI_0020.mp4.
+
