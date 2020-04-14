@@ -1,7 +1,7 @@
 ./node_modules
 ./yarn.lock
 .prettierrc.js
-src/public/*
+src/public/*.mp4
+src/public/convert_images
 
 ocr-test-f1970d774c06.json
-kor.traineddata
